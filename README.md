@@ -32,10 +32,10 @@ This project demonstrates form validation and styling with a clean user interfac
 
 ## ⚡ Getting Started
 
-1. Clone this repository:
+1. Clone this repository: 
 
 
-2. Open `index.html` in your browser.
+2. Open https://eischideraa-unn.github.io/html-clickform/ in your browser.
 
 3. Enter your email and password to test the form. 🎉
 
